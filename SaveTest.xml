@@ -41,10 +41,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/choice_20190521172505",
+	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/choice_20190521173754",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T21:25:05.685Z",
-	"dcterms:issued": "2019-05-21T21:25:13.099Z",
+	"dcterms:created": "2019-05-21T21:37:54.782Z",
+	"dcterms:issued": "2019-05-21T21:38:03.531Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -53,7 +53,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/choice_20190521172505#Target",
+		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/choice_20190521173754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://github.com/undefined/blob/masterundefined",
@@ -67,7 +67,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/choice_20190521172505#Selector",
+			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/choice_20190521173754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/choice"
 		}
@@ -109,10 +109,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/dateline/date_20190521172505",
+	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/dateline/date_20190521173754",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T21:25:05.697Z",
-	"dcterms:issued": "2019-05-21T21:25:13.103Z",
+	"dcterms:created": "2019-05-21T21:37:54.792Z",
+	"dcterms:issued": "2019-05-21T21:38:03.535Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -121,7 +121,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/dateline/date_20190521172505#Target",
+		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/dateline/date_20190521173754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://github.com/undefined/blob/masterundefined",
@@ -135,7 +135,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/dateline/date_20190521172505#Selector",
+			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/dateline/date_20190521173754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/dateline/date"
 		}
@@ -178,10 +178,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/head/title/persName_20190521172505",
+	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/head/title/persName_20190521173754",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T21:25:05.706Z",
-	"dcterms:issued": "2019-05-21T21:25:13.104Z",
+	"dcterms:created": "2019-05-21T21:37:54.801Z",
+	"dcterms:issued": "2019-05-21T21:38:03.535Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -190,7 +190,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/head/title/persName_20190521172505#Target",
+		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/head/title/persName_20190521173754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://github.com/undefined/blob/masterundefined",
@@ -204,7 +204,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/head/title/persName_20190521172505#Selector",
+			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/head/title/persName_20190521173754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName"
 		}
@@ -249,10 +249,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/closer/signed/persName/persName_20190521172505",
+	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/closer/signed/persName/persName_20190521173754",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T21:25:05.714Z",
-	"dcterms:issued": "2019-05-21T21:25:13.104Z",
+	"dcterms:created": "2019-05-21T21:37:54.811Z",
+	"dcterms:issued": "2019-05-21T21:38:03.535Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -261,7 +261,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/closer/signed/persName/persName_20190521172505#Target",
+		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/closer/signed/persName/persName_20190521173754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://github.com/undefined/blob/masterundefined",
@@ -275,7 +275,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/closer/signed/persName/persName_20190521172505#Selector",
+			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/closer/signed/persName/persName_20190521173754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/signed/persName/persName"
 		}
@@ -320,10 +320,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/note/p[3]/placeName_20190521172505",
+	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/note/p[3]/placeName_20190521173754",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T21:25:05.720Z",
-	"dcterms:issued": "2019-05-21T21:25:13.104Z",
+	"dcterms:created": "2019-05-21T21:37:54.817Z",
+	"dcterms:issued": "2019-05-21T21:38:03.535Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -332,7 +332,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/note/p[3]/placeName_20190521172505#Target",
+		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/note/p[3]/placeName_20190521173754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://github.com/undefined/blob/masterundefined",
@@ -346,7 +346,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/note/p[3]/placeName_20190521172505#Selector",
+			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/opener/note/p[3]/placeName_20190521173754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/note/p[3]/placeName"
 		}
@@ -391,10 +391,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/placeName_20190521172505",
+	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/placeName_20190521173754",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T21:25:05.727Z",
-	"dcterms:issued": "2019-05-21T21:25:13.104Z",
+	"dcterms:created": "2019-05-21T21:37:54.843Z",
+	"dcterms:issued": "2019-05-21T21:38:03.536Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -403,7 +403,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/placeName_20190521172505#Target",
+		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/placeName_20190521173754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://github.com/undefined/blob/masterundefined",
@@ -417,7 +417,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/placeName_20190521172505#Selector",
+			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p[2]/placeName_20190521173754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -462,10 +462,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p/placeName_20190521172505",
+	"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p/placeName_20190521173754",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T21:25:05.734Z",
-	"dcterms:issued": "2019-05-21T21:25:13.104Z",
+	"dcterms:created": "2019-05-21T21:37:54.851Z",
+	"dcterms:issued": "2019-05-21T21:38:03.536Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -474,7 +474,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p/placeName_20190521172505#Target",
+		"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p/placeName_20190521173754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://github.com/undefined/blob/masterundefined",
@@ -488,7 +488,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p/placeName_20190521172505#Selector",
+			"@id": "https://github.com/undefined/blob/masterundefined?TEI/text/body/div/p/placeName_20190521173754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -512,7 +512,7 @@
 		<body>
 			<div type="letter">
 				<head>
-					<title>Letter Test: Sample Letter - Bertrand Russell to <persName cert="probable" ref="279399399">Patricia Spence</persName> - October 21, 1935</title>
+					<title>Test Letter: Sample Letter - Bertrand Russell to <persName cert="probable" ref="279399399">Patricia Spence</persName> - October 21, 1935</title>
 				</head>
 				<opener>
 					<note>
