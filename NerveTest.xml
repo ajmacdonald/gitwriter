@@ -47,11 +47,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/head/persName_20190516173933",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/head/persName_20190705134341",
 	"@type": "oa:Annotation",
-	"oa:motivatedBy": "oa:identifying",
-	"dcterms:created": "2019-05-16T21:39:33.844Z",
-	"dcterms:issued": "2019-05-16T21:39:42.237Z",
+	"dcterms:created": "2019-07-05T17:43:41.312Z",
+	"dcterms:issued": "2019-07-05T17:43:55.608Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -61,11 +60,12 @@
 		"cwrc:hasName": "Andrew",
 		"foaf:nick": "ajmacdonald"
 	},
+	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/head/persName_20190516173933#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/head/persName_20190705134341#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
 			"@type": "dctypes:Text",
 			"format": "text/xml"
 		},
@@ -76,10 +76,15 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/head/persName_20190516173933#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/head/persName_20190705134341#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "42172560",
+		"dc:format": "text/html"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -87,10 +92,6 @@
 		"rdfs:label": "CWRC Writer",
 		"schema:url": "https://cwrc-writer.cwrc.ca",
 		"schema:softwareVersion": "1.0"
-	},
-	"oa:hasBody": {
-		"@id": "42172560",
-		"dc:format": "text/html"
 	},
 	"oa:hasCertainty": "cwrc:reasonably certain"
 }
@@ -120,11 +121,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190516173933",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190705134341",
 	"@type": "oa:Annotation",
-	"oa:motivatedBy": "oa:identifying",
-	"dcterms:created": "2019-05-16T21:39:33.859Z",
-	"dcterms:issued": "2019-05-16T21:39:42.242Z",
+	"dcterms:created": "2019-07-05T17:43:41.323Z",
+	"dcterms:issued": "2019-07-05T17:43:55.612Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -134,11 +134,12 @@
 		"cwrc:hasName": "Andrew",
 		"foaf:nick": "ajmacdonald"
 	},
+	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190516173933#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190705134341#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
 			"@type": "dctypes:Text",
 			"format": "text/xml"
 		},
@@ -149,10 +150,15 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190516173933#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190705134341#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/docAuthor/persName"
 		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/110146998373218941066/",
+		"dc:format": "text/html"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -160,10 +166,6 @@
 		"rdfs:label": "CWRC Writer",
 		"schema:url": "https://cwrc-writer.cwrc.ca",
 		"schema:softwareVersion": "1.0"
-	},
-	"oa:hasBody": {
-		"@id": "http://viaf.org/viaf/110146998373218941066/",
-		"dc:format": "text/html"
 	},
 	"oa:hasCertainty": "cwrc:definite"
 }
@@ -193,11 +195,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190516173933",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190705134341",
 	"@type": "oa:Annotation",
-	"oa:motivatedBy": "oa:identifying",
-	"dcterms:created": "2019-05-16T21:39:33.872Z",
-	"dcterms:issued": "2019-05-16T21:39:42.243Z",
+	"dcterms:created": "2019-07-05T17:43:41.331Z",
+	"dcterms:issued": "2019-07-05T17:43:55.613Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -207,11 +208,12 @@
 		"cwrc:hasName": "Andrew",
 		"foaf:nick": "ajmacdonald"
 	},
+	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190516173933#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190705134341#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
 			"@type": "dctypes:Text",
 			"format": "text/xml"
 		},
@@ -222,10 +224,15 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190516173933#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190705134341#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[11]/l/foreign/persName"
 		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q188143",
+		"dc:format": "text/html"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -233,10 +240,6 @@
 		"rdfs:label": "CWRC Writer",
 		"schema:url": "https://cwrc-writer.cwrc.ca",
 		"schema:softwareVersion": "1.0"
-	},
-	"oa:hasBody": {
-		"@id": "http://www.wikidata.org/entity/Q188143",
-		"dc:format": "text/html"
 	}
 }
 ]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
