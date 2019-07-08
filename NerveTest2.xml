@@ -47,10 +47,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/head/persName_20190530170054",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/head/persName_20190708130933",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-30T21:00:54.480Z",
-	"dcterms:issued": "2019-05-30T21:01:06.023Z",
+	"dcterms:created": "2019-07-08T17:09:33.070Z",
+	"dcterms:issued": "2019-07-08T17:10:07.963Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -62,12 +62,12 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/head/persName_20190530170054#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/head/persName_20190708130933#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -76,7 +76,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/head/persName_20190530170054#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/head/persName_20190708130933#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
@@ -121,10 +121,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/docAuthor/persName_20190530170054",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/docAuthor/persName_20190708130933",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-30T21:00:54.496Z",
-	"dcterms:issued": "2019-05-30T21:01:06.026Z",
+	"dcterms:created": "2019-07-08T17:09:33.097Z",
+	"dcterms:issued": "2019-07-08T17:10:07.967Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -136,12 +136,12 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/docAuthor/persName_20190530170054#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/docAuthor/persName_20190708130933#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -150,7 +150,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/docAuthor/persName_20190530170054#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/docAuthor/persName_20190708130933#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/docAuthor/persName"
 		}
@@ -195,10 +195,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190530170054",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190708130933",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-30T21:00:54.506Z",
-	"dcterms:issued": "2019-05-30T21:01:06.026Z",
+	"dcterms:created": "2019-07-08T17:09:33.106Z",
+	"dcterms:issued": "2019-07-08T17:10:07.967Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -210,12 +210,12 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190530170054#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190708130933#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -224,7 +224,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/NerveTest2.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190530170054#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest2.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190708130933#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[11]/l/foreign/persName"
 		}
