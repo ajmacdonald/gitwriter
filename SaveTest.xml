@@ -41,24 +41,27 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/head/title/persName_20190521180951",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/head/title/persName_20190709150131",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T22:09:51.610Z",
-	"dcterms:issued": "2019-05-21T22:09:58.577Z",
+	"dcterms:created": "2019-07-09T19:01:31.216Z",
+	"dcterms:issued": "2019-07-09T19:01:38.910Z",
 	"dcterms:creator": {
+		"@id": "https://github.com/ajmacdonald",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
-		]
+		],
+		"cwrc:hasName": "Andrew",
+		"foaf:nick": "ajmacdonald"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/head/title/persName_20190521180951#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/head/title/persName_20190709150131#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -67,7 +70,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/head/title/persName_20190521180951#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/head/title/persName_20190709150131#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName"
 		}
@@ -112,24 +115,27 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/closer/signed/persName/persName_20190521180951",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/closer/signed/persName/persName_20190709150131",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T22:09:51.631Z",
-	"dcterms:issued": "2019-05-21T22:10:09.463Z",
+	"dcterms:created": "2019-07-09T19:01:31.223Z",
+	"dcterms:issued": "2019-07-09T19:01:38.914Z",
 	"dcterms:creator": {
+		"@id": "https://github.com/ajmacdonald",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
-		]
+		],
+		"cwrc:hasName": "Andrew",
+		"foaf:nick": "ajmacdonald"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/closer/signed/persName/persName_20190521180951#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/closer/signed/persName/persName_20190709150131#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -138,7 +144,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/closer/signed/persName/persName_20190521180951#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/closer/signed/persName/persName_20190709150131#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/signed/persName/persName"
 		}
@@ -183,24 +189,27 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/opener/note/p[3]/placeName_20190521180951",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/opener/note/p[3]/placeName_20190709150131",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T22:09:51.646Z",
-	"dcterms:issued": "2019-05-21T22:10:09.463Z",
+	"dcterms:created": "2019-07-09T19:01:31.232Z",
+	"dcterms:issued": "2019-07-09T19:01:38.914Z",
 	"dcterms:creator": {
+		"@id": "https://github.com/ajmacdonald",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
-		]
+		],
+		"cwrc:hasName": "Andrew",
+		"foaf:nick": "ajmacdonald"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/opener/note/p[3]/placeName_20190521180951#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/opener/note/p[3]/placeName_20190709150131#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -209,13 +218,13 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/opener/note/p[3]/placeName_20190521180951#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/opener/note/p[3]/placeName_20190709150131#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/note/p[3]/placeName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Place",
+		"@type": "cwrc:RealPlace",
 		"@id": "http://www.geonames.org/6453366",
 		"dc:format": "text/html"
 	},
@@ -254,24 +263,27 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/p/placeName_20190521180951",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/p/placeName_20190709150131",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T22:09:51.659Z",
-	"dcterms:issued": "2019-05-21T22:10:09.464Z",
+	"dcterms:created": "2019-07-09T19:01:31.248Z",
+	"dcterms:issued": "2019-07-09T19:01:38.914Z",
 	"dcterms:creator": {
+		"@id": "https://github.com/ajmacdonald",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
-		]
+		],
+		"cwrc:hasName": "Andrew",
+		"foaf:nick": "ajmacdonald"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/p/placeName_20190521180951#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/p/placeName_20190709150131#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -280,13 +292,13 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/p/placeName_20190521180951#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/p/placeName_20190709150131#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Place",
+		"@type": "cwrc:RealPlace",
 		"@id": "http://www.geonames.org/2673722",
 		"dc:format": "text/html"
 	},
@@ -325,24 +337,27 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/p[2]/placeName_20190521180951",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/p[2]/placeName_20190709150131",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T22:09:51.675Z",
-	"dcterms:issued": "2019-05-21T22:10:09.464Z",
+	"dcterms:created": "2019-07-09T19:01:31.258Z",
+	"dcterms:issued": "2019-07-09T19:01:38.914Z",
 	"dcterms:creator": {
+		"@id": "https://github.com/ajmacdonald",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
-		]
+		],
+		"cwrc:hasName": "Andrew",
+		"foaf:nick": "ajmacdonald"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/p[2]/placeName_20190521180951#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/p[2]/placeName_20190709150131#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -351,13 +366,13 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/p[2]/placeName_20190521180951#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/p[2]/placeName_20190709150131#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Place",
+		"@type": "cwrc:RealPlace",
 		"@id": "http://www.geonames.org/6548528",
 		"dc:format": "text/html"
 	},
@@ -396,24 +411,27 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/opener/dateline/date_20190521180951",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/opener/dateline/date_20190709150131",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-05-21T22:09:51.689Z",
-	"dcterms:issued": "2019-05-21T22:10:09.464Z",
+	"dcterms:created": "2019-07-09T19:01:31.269Z",
+	"dcterms:issued": "2019-07-09T19:01:38.914Z",
 	"dcterms:creator": {
+		"@id": "https://github.com/ajmacdonald",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
-		]
+		],
+		"cwrc:hasName": "Andrew",
+		"foaf:nick": "ajmacdonald"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/opener/dateline/date_20190521180951#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/opener/dateline/date_20190709150131#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml",
 			"@type": "dctypes:Text",
-			"format": "text/xml"
+			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
 			"@id": "https://cwrc-writer.cwrc.ca/",
@@ -422,13 +440,14 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://github.com/ajmacdonald/gitwriter/blob/master/SaveTest.xml?TEI/text/body/div/opener/dateline/date_20190521180951#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/SaveTest.xml?TEI/text/body/div/opener/dateline/date_20190709150131#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/dateline/date"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "1935-10-21"
+		"@type": "xsd:date",
+		"rdf:value": "1935-10-21"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
