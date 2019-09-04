@@ -19,21 +19,11 @@
 				<p>This sample poem is based on the version in the Complete Poems of A. M. Klein, ed. Zailig Pollock (Toronto: U of Toronto Press, 1990)</p>
 			</sourceDesc>
 		</fileDesc>
-	<xenoData>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
 			"@id": "dcterms:created"
@@ -45,12 +35,23 @@
 		"oa:motivatedBy": {
 			"@type": "oa:Motivation"
 		},
-		"@language": "en"
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/head/persName_20190904133343",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-04T17:33:43.175Z",
-	"dcterms:issued": "2019-09-04T17:38:27.440Z",
+	"dcterms:created": "2019-09-04T18:01:29.993Z",
+	"dcterms:issued": "2019-09-04T18:01:38.238Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -62,7 +63,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/head/persName_20190904133343#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -76,7 +77,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/head/persName_20190904133343#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
@@ -84,7 +85,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "42172560",
-		"dc:format": "text/html"
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -99,15 +100,6 @@
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
 			"@id": "dcterms:created"
@@ -119,12 +111,23 @@
 		"oa:motivatedBy": {
 			"@type": "oa:Motivation"
 		},
-		"@language": "en"
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190904133343",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-04T17:33:43.182Z",
-	"dcterms:issued": "2019-09-04T17:38:27.443Z",
+	"dcterms:created": "2019-09-04T18:01:29.995Z",
+	"dcterms:issued": "2019-09-04T18:01:38.242Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -136,7 +139,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190904133343#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -150,7 +153,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190904133343#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/docAuthor/persName"
 		}
@@ -158,7 +161,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://viaf.org/viaf/110146998373218941066/",
-		"dc:format": "text/html"
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -173,15 +176,6 @@
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
 			"@id": "dcterms:created"
@@ -193,12 +187,23 @@
 		"oa:motivatedBy": {
 			"@type": "oa:Motivation"
 		},
-		"@language": "en"
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190904133343",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-04T17:33:43.193Z",
-	"dcterms:issued": "2019-09-04T17:38:27.443Z",
+	"dcterms:created": "2019-09-04T18:01:29.996Z",
+	"dcterms:issued": "2019-09-04T18:01:38.242Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -210,7 +215,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190904133343#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -224,7 +229,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190904133343#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[11]/l/foreign/persName"
 		}
@@ -232,7 +237,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q188143",
-		"dc:format": "text/html"
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -246,15 +251,6 @@
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
 			"@id": "dcterms:created"
@@ -266,12 +262,23 @@
 		"oa:motivatedBy": {
 			"@type": "oa:Motivation"
 		},
-		"@language": "en"
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[6]/l[3]/persName_20190904133351",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-04T17:33:51.395Z",
-	"dcterms:issued": "2019-09-04T17:38:27.443Z",
+	"dcterms:created": "2019-09-04T18:01:29.997Z",
+	"dcterms:issued": "2019-09-04T18:01:38.242Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -283,7 +290,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[6]/l[3]/persName_20190904133351#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -297,7 +304,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[6]/l[3]/persName_20190904133351#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20190904140129#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[6]/l[3]/persName"
 		}
@@ -305,7 +312,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q22087497",
-		"dc:format": "text/html"
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -326,7 +333,7 @@
 					<l>On the school platform, draping the folding seats,</l><l>they wait the chairman's praise and glass of water.</l><l>Upon the wall the agonized Y initials their faith.</l>
 				</lg>
 				<lg>
-					<l>Here all are laic; the skirted brothers have gone.</l><l>Still, their equivocal absence is felt, like a breeze</l><l>that gives curtains the sounds of surplices.</l>
+					<l>Here all are laic; the skirted brothers have gone.</l><l>Still, their equivocal fabsence is felt, like a breeze</l><l>that gives curtains the sounds of surplices.</l>
 				</lg>
 				<lg>
 					<l>The hall is yellow with light, and jocular;</l><l>suddenly some one lets loose upon the air</l><l>the ritual bird which the crowd in snares of singing</l>
