@@ -50,7 +50,7 @@
 	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/head/persName_20190904133343",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-09-04T17:33:43.175Z",
-	"dcterms:issued": "2019-09-04T17:34:00.695Z",
+	"dcterms:issued": "2019-09-04T17:38:27.440Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -124,7 +124,7 @@
 	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/docAuthor/persName_20190904133343",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-09-04T17:33:43.182Z",
-	"dcterms:issued": "2019-09-04T17:34:00.698Z",
+	"dcterms:issued": "2019-09-04T17:38:27.443Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -198,7 +198,7 @@
 	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[11]/l/foreign/persName_20190904133343",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-09-04T17:33:43.193Z",
-	"dcterms:issued": "2019-09-04T17:34:00.698Z",
+	"dcterms:issued": "2019-09-04T17:38:27.443Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -271,7 +271,7 @@
 	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?TEI/text/body/div/lg[6]/l[3]/persName_20190904133351",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-09-04T17:33:51.395Z",
-	"dcterms:issued": "2019-09-04T17:34:00.698Z",
+	"dcterms:issued": "2019-09-04T17:38:27.443Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
