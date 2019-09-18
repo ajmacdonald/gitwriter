@@ -44,7 +44,80 @@
 	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test_small.xml?person_annotation_20190918141110",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-09-18T18:11:10.020Z",
-	"dcterms:issued": "2019-09-18T18:27:03.991Z",
+	"dcterms:issued": "2019-09-18T18:27:21.950Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ajmacdonald",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Andrew",
+		"foaf:nick": "ajmacdonald"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test_small.xml?person_annotation_20190918141110#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test_small.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test_small.xml?person_annotation_20190918141110#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/head/title/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q33760",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test_small.xml?person_annotation_20190918141110",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-09-18T18:11:10.020Z",
+	"dcterms:issued": "2019-09-18T18:27:21.950Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -92,7 +165,7 @@
 	<text>
 		<body>
 			<div type="letter">
-				<head>
+				<head><title>Sample asdfasdfasdf Letter - <persName key="Bertrand Russell" ref="http://www.wikidata.org/entity/Q33760">Bertrand Russell</persName> </title>
 					<title>Sample asdfasdfasdf Letter - <persName key="Bertrand Russell" ref="http://www.wikidata.org/entity/Q33760">Bertrand Russell</persName> </title></head><closer>
 					<signed>
 						<persName sameAs="http://www.freebase.com/view/en/bertrand_russell">
