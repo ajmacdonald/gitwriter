@@ -41,10 +41,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-18T18:00:42.238Z",
-	"dcterms:issued": "2019-09-18T18:00:57.848Z",
+	"dcterms:created": "2019-09-18T21:06:55.300Z",
+	"dcterms:issued": "2019-09-18T21:07:01.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -56,7 +56,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml",
@@ -70,7 +70,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName[3]"
 		}
@@ -114,10 +114,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-18T18:00:42.240Z",
-	"dcterms:issued": "2019-09-18T18:00:57.851Z",
+	"dcterms:created": "2019-09-18T21:06:55.303Z",
+	"dcterms:issued": "2019-09-18T21:07:01.840Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -129,7 +129,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml",
@@ -143,7 +143,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName[2]"
 		}
@@ -187,10 +187,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-18T18:00:42.241Z",
-	"dcterms:issued": "2019-09-18T18:00:57.852Z",
+	"dcterms:created": "2019-09-18T21:06:55.304Z",
+	"dcterms:issued": "2019-09-18T21:07:01.840Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -202,7 +202,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml",
@@ -216,7 +216,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -260,10 +260,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-18T18:00:42.241Z",
-	"dcterms:issued": "2019-09-18T18:00:57.852Z",
+	"dcterms:created": "2019-09-18T21:06:55.306Z",
+	"dcterms:issued": "2019-09-18T21:07:01.840Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -275,7 +275,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml",
@@ -289,7 +289,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918140042#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?place_annotation_20190918170655#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/note/p[3]/placeName"
 		}
@@ -333,10 +333,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?person_annotation_20190918140042",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?person_annotation_20190918170655",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-09-18T18:00:42.242Z",
-	"dcterms:issued": "2019-09-18T18:00:57.852Z",
+	"dcterms:created": "2019-09-18T21:06:55.307Z",
+	"dcterms:issued": "2019-09-18T21:07:01.840Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -348,7 +348,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?person_annotation_20190918140042#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?person_annotation_20190918170655#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml",
@@ -362,7 +362,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?person_annotation_20190918140042#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test.xml?person_annotation_20190918170655#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName"
 		}
