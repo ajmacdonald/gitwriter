@@ -44,7 +44,7 @@
 	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/letter_entity_test_small.xml?person_annotation_20190918141110",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-09-18T18:11:10.020Z",
-	"dcterms:issued": "2019-09-18T18:26:22.842Z",
+	"dcterms:issued": "2019-09-18T18:27:03.991Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -93,7 +93,7 @@
 		<body>
 			<div type="letter">
 				<head>
-					<title>Sample Letter - <persName key="Bertrand Russell" ref="http://www.wikidata.org/entity/Q33760">Bertrand Russell</persName> </title></head><closer>
+					<title>Sample asdfasdfasdf Letter - <persName key="Bertrand Russell" ref="http://www.wikidata.org/entity/Q33760">Bertrand Russell</persName> </title></head><closer>
 					<signed>
 						<persName sameAs="http://www.freebase.com/view/en/bertrand_russell">
 							B
