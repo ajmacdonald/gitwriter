@@ -48,10 +48,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-11T16:05:50.227Z",
-	"dcterms:issued": "2020-02-11T16:13:35.212Z",
+	"dcterms:created": "2020-02-11T16:28:26.583Z",
+	"dcterms:issued": "2020-02-11T16:28:32.706Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -63,7 +63,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -77,7 +77,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
@@ -124,10 +124,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-11T16:05:50.230Z",
-	"dcterms:issued": "2020-02-11T16:13:35.215Z",
+	"dcterms:created": "2020-02-11T16:28:26.586Z",
+	"dcterms:issued": "2020-02-11T16:28:32.709Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -139,7 +139,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -153,7 +153,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/docAuthor/persName"
 		}
@@ -200,10 +200,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-11T16:05:50.232Z",
-	"dcterms:issued": "2020-02-11T16:13:35.216Z",
+	"dcterms:created": "2020-02-11T16:28:26.588Z",
+	"dcterms:issued": "2020-02-11T16:28:32.710Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -215,7 +215,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -229,7 +229,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[11]/l/foreign/persName"
 		}
@@ -275,10 +275,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550",
+	"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-11T16:05:50.233Z",
-	"dcterms:issued": "2020-02-11T16:13:35.216Z",
+	"dcterms:created": "2020-02-11T16:28:26.590Z",
+	"dcterms:issued": "2020-02-11T16:28:32.710Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -290,7 +290,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Target",
+		"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml",
@@ -304,7 +304,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211110550#Selector",
+			"@id": "https://raw.githubusercontent.com/ajmacdonald/gitwriter/master/NerveTest.xml?person_annotation_20200211112826#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[6]/l[3]/persName"
 		}
